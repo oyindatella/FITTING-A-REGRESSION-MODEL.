@@ -1,4 +1,5 @@
 FITTING A REGRESSION MODEL TO UNDERSTAND THE KEY DRIVERS OF CUSTOMER SATISFACTION.
+
 In this analysis, I will walk you through the steps of fitting a regression model to understand the key drivers of customer satisfaction on an e-commerce platform. By following the CRISP-DM methodology, we can gain valuable insights into the factors that most impact customer satisfaction and develop data-driven solutions to improve the overall customer experience, while efficiently allocating resources.
 
 Below are the steps of the CRISP-DM methodology applied to fitting a regression model to understand key drivers of customer satisfaction for a fictional online retailer:
