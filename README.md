@@ -1,6 +1,7 @@
 # FITTING-A-REGRESSION-MODEL.
 Fitting a regression model to understand the key drivers of customer satisfaction.
 My client, a fictional online retailer, Tabithy is struggling to understand the key drivers of customer satisfaction on their e-commerce platform. As a result, I have decided to implement a data-driven approach using the CRISP-DM methodology to solve this business problem.
+
 The first step in this process was to clearly define the problem statement, which involved identifying the factors that most significantly impact customer satisfaction. To achieve this, a regression analysis was conducted using data from customer feedback surveys, as well as information on customer demographics and purchase behavior.
 Through this analysis, I will be able to help Tabithy identify the most significant drivers of customer satisfaction on its platform. However, the retailer is also struggling with how to allocate resources to these areas in order to improve customer satisfaction and loyalty.
 Armed with this knowledge, I will able to help Tabithy develop targeted strategies to improve the overall customer experience and increase customer loyalty. By using the results of the regression analysis, the retailer will be able to make data-driven decisions about where to allocate resources in order to have the greatest impact on overall customer satisfaction.
